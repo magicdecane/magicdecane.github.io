@@ -1,2 +1,2 @@
-# magicdecane.github.io
+# jagi.github.io
 Update info
