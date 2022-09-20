@@ -1,2 +1,2 @@
-# magicdecane.github.io
+# welcome to github.io
 Update info
