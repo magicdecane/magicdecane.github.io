@@ -3,7 +3,7 @@
 <TITLE> R E P O L I S T </TITLE>
 <BODY BGCOLOR="#031416" TEXT="#3996dd" LINK="#3996dd" ALINK="#3996dd" VLINK="#3996dd">
 
-    +--------------+----------------------------------------+
+  +--------------+----------------------------------------+
 	| Size Cell    |              Type                      |
 	+ -------------|----------------+-----------------------+
 	|              |  Standard      |  Alkaline             |
@@ -13,7 +13,7 @@
 	|     D        |  1.3 years     |  2.6 years            |
 	+--------------+----------------+-----------------------+
 
-    +--------------+----------------------------------------+
+  +--------------+----------------------------------------+
 	| Size Cell    |              Type                      |
 	+              |----------------+-----------------------+
 	|              |  Standard      |  Alkaline             |
@@ -22,6 +22,196 @@
 	|     C        |  7 months      |  15 months            |
 	|     D        |  1.3 years     |  2.6 years            |
 	+--------------+----------------+-----------------------+
+
+# Family
+
+Name: [person's name]
+Address:
+   - Street address
+   - Apartment/unit number (if applicable)
+   - Town/City, State/Province/Prefecture, Postal/Zip Code
+   - Country
+Email:
+   - personal:
+   - secondary:
+   - work:
+Phone:
+   - mobile:
+   - home:
+   - work: 
+Additional Information:
+   - birthday: 
+   - spouse's/partner's name: 
+   - anything else: 
+
+--
+
+Name: [person's name]
+Address:
+   - Street address
+   - Apartment/unit number (if applicable)
+   - Town/City, State/Province/Prefecture, Postal/Zip Code
+   - Country
+Email:
+   - personal:
+   - secondary:
+   - work:
+Phone:
+   - mobile:
+   - home:
+   - work: 
+Additional Information:
+   - birthday: 
+   - spouse's/partner's name: 
+   - anything else: 
+   
+---
+
+# Friends
+
+Name: [person's name]
+Address:
+   - Street address
+   - Apartment/unit number (if applicable)
+   - Town/City, State/Province/Prefecture, Postal/Zip Code
+   - Country
+Email:
+   - personal:
+   - secondary:
+   - work:
+Phone:
+   - mobile:
+   - home:
+   - work: 
+Additional Information:
+   - birthday: 
+   - spouse's/partner's name: 
+   - anything else: 
+
+--
+
+Name: [person's name]
+Address:
+   - Street address
+   - Apartment/unit number (if applicable)
+   - Town/City, State/Province/Prefecture, Postal/Zip Code
+   - Country
+Email:
+   - personal:
+   - secondary:
+   - work:
+Phone:
+   - mobile:
+   - home:
+   - work: 
+Additional Information:
+   - birthday: 
+   - spouse's/partner's name: 
+   - anything else: 
+
+   
+---
+
+# Colleagues
+
+Name: [person's name]
+Address:
+   - Street address
+   - Apartment/unit number (if applicable)
+   - Town/City, State/Province/Prefecture, Postal/Zip Code
+   - Country
+Email:
+   - personal:
+   - secondary:
+   - work:
+Phone:
+   - mobile:
+   - home:
+   - work: 
+Additional Information:
+   - birthday: 
+   - spouse's/partner's name: 
+   - anything else: 
+
+
+# 2019
+
+## December
+
+### 18 - Wednesday
+Example entry.
+
+### 19 - Thursday
+Example entry.
+
+
+
+----
+WEEK: DD MMM to DD MMM, YYYY
+----
+
+DD MMM
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+---
+
+DD MMM
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+---
+
+DD MMM
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+---
+
+DD MMM
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+---
+
+DD MMM
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
 
     
     The WCS consists of six major components as listed
