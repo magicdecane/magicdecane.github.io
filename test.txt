@@ -1,0 +1,376 @@
+
+<HTML>
+<TITLE> R E P O L I S T </TITLE>
+<BODY BGCOLOR="#031416" TEXT="#3996dd" LINK="#3996dd" ALINK="#3996dd" VLINK="#3996dd">
+
+  +--------------+----------------------------------------+
+	| Size Cell    |              Type                      |
+	+ -------------|----------------+-----------------------+
+	|              |  Standard      |  Alkaline             |
+	+--------------+----------------+-----------------------+
+	|     AA       |  3 months      |  6 months             |
+	|     C        |  7 months      |  15 months            |
+	|     D        |  1.3 years     |  2.6 years            |
+	+--------------+----------------+-----------------------+
+
+  +--------------+----------------------------------------+
+	| Size Cell    |              Type                      |
+	+              |----------------+-----------------------+
+	|              |  Standard      |  Alkaline             |
+	+--------------+----------------+-----------------------+
+	|     AA       |  3 months      |  6 months             |
+	|     C        |  7 months      |  15 months            |
+	|     D        |  1.3 years     |  2.6 years            |
+	+--------------+----------------+-----------------------+
+
+# Family
+
+Name: [person's name]
+Address:
+   - Street address
+   - Apartment/unit number (if applicable)
+   - Town/City, State/Province/Prefecture, Postal/Zip Code
+   - Country
+Email:
+   - personal:
+   - secondary:
+   - work:
+Phone:
+   - mobile:
+   - home:
+   - work: 
+Additional Information:
+   - birthday: 
+   - spouse's/partner's name: 
+   - anything else: 
+
+--
+
+Name: [person's name]
+Address:
+   - Street address
+   - Apartment/unit number (if applicable)
+   - Town/City, State/Province/Prefecture, Postal/Zip Code
+   - Country
+Email:
+   - personal:
+   - secondary:
+   - work:
+Phone:
+   - mobile:
+   - home:
+   - work: 
+Additional Information:
+   - birthday: 
+   - spouse's/partner's name: 
+   - anything else: 
+   
+---
+
+# Friends
+
+Name: [person's name]
+Address:
+   - Street address
+   - Apartment/unit number (if applicable)
+   - Town/City, State/Province/Prefecture, Postal/Zip Code
+   - Country
+Email:
+   - personal:
+   - secondary:
+   - work:
+Phone:
+   - mobile:
+   - home:
+   - work: 
+Additional Information:
+   - birthday: 
+   - spouse's/partner's name: 
+   - anything else: 
+
+--
+
+Name: [person's name]
+Address:
+   - Street address
+   - Apartment/unit number (if applicable)
+   - Town/City, State/Province/Prefecture, Postal/Zip Code
+   - Country
+Email:
+   - personal:
+   - secondary:
+   - work:
+Phone:
+   - mobile:
+   - home:
+   - work: 
+Additional Information:
+   - birthday: 
+   - spouse's/partner's name: 
+   - anything else: 
+
+   
+---
+
+# Colleagues
+
+Name: [person's name]
+Address:
+   - Street address
+   - Apartment/unit number (if applicable)
+   - Town/City, State/Province/Prefecture, Postal/Zip Code
+   - Country
+Email:
+   - personal:
+   - secondary:
+   - work:
+Phone:
+   - mobile:
+   - home:
+   - work: 
+Additional Information:
+   - birthday: 
+   - spouse's/partner's name: 
+   - anything else: 
+
+
+# 2019
+
+## December
+
+### 18 - Wednesday
+Example entry.
+
+### 19 - Thursday
+Example entry.
+
+
+
+----
+WEEK: DD MMM to DD MMM, YYYY
+----
+
+DD MMM
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+---
+
+DD MMM
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+---
+
+DD MMM
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+---
+
+DD MMM
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+---
+
+DD MMM
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+HH:MM to HH:MM - [Replace with description]
+NOTE: [Optionally, add a note]
+
+    
+    The WCS consists of six major components as listed
+    below:
+     
+         * Commode
+         * Urinal
+         * Fan Separators
+         * Odor/Bacteria Filter
+         * Vacuum Vent QD
+         * WCS Controls
+ 
+         
+"6_2_13.TXT" (6394 bytes) was created on 10-22-89
+
+
+
+WELDING-Wire
+      M.I.G.(Metal Inert Gas) - Points to Remember
+                                                                 
+
+                                                                 
+
+      1. Mig (GMAW) welding is often referred to
+         by the manufacturer's trade name as Micro-wire,
+         Aircomatic, Sigma, and Millermatic Welding.
+                                                                 
+
+      2. Mig welding is faster than stick electrode
+         welding and is much easier to learn.
+
+---------------------------------------
+	     N e w s d a y
+	Bulletin Board System
+---------------------------------------
+      TIPS FOR BUYING USED CARS
+---------------------------------------
+
+Some tips for buying used cars, from ``The Used Car Book'' by the editors of
+Consumer Automotive Press (published by Ballantine Books, New York):
+
+    1.	Don't expect dealers to tell you what's wrong with the car.
+    2.	If you want a warranty, get it in writing.
+
+
+
+
+
+    ******* Virtual GameBoy *******
+    The Portable Nintendo GameBoy Emulator
+                 version 0.5
+
+             by Marat Fayzullin
+     Ported to MS-DOS by Marcel de Kogel
+
+(*) GameBoy is a registered trademark of Nintendo.
+
+This file contains notes about features specific for VGB-DOS 0.5.2
+
+Note: VGB-DOS requires the presence of a DPMI server. If you don't run the
+program under a DPMI-hosted environment (Windows, OS/2, QPMI, ...), put the
+file CSDPMI.EXE included in CWSDPMI.ZIP somewhere in your path.
+
+Hardware Requirements
+=====================
+A 486DX-33 (486DX2-66 recommended)
+A VGA compatible video card
+Adlib/Adlib Gold/SBPro/SB16 and joystick supported
+
+Files included in VGB-DOS.ZIP
+==============================
+VGB-DOS.EXE   The emulator
+VGB.DOC       The main documentation file
+VGB-DOS.TXT   This file
+VGB-DOS.GIF   A GIF file containing the title screen. You can replace this
+  with your own. Make sure the file is in 256-color, 320x200,
+  non-interlaced GIF87A format.
+CWSDMI.ZIP    A DPMI server required by VGB-DOS.EXE
+
+Key Mapping
+===========
+Alt        - Button A
+Ctrl       - Button B
+Left Shift - Start
+CapsLock/Z - Select
+
+pril
+01/04/08 Tue | Songkick.
+02/04/08 Wed | 
+03/04/08 Thu | Songkick.
+04/04/08 Fri | 
+05/04/08 Sat | Oxford: Wizard of Oz
+06/04/08 Sun | 
+07/04/08 Mon | 
+08/04/08 Tue | Songkick.
+09/04/08 Wed | 
+10/04/08 Thu | 
+11/04/08 Fri | 
+12/04/08 Sat | Ungraduation party.
+13/04/08 Sun | 
+14/04/08 Mon | Start at Songkick.
+               LRUG: talk about Rak for 5 minutes.
+               Put out bookcases and microwave in the evening.
+15/04/08 Tue | Meet dad in town for dinner
+16/04/08 Wed | 
+17/04/08 Thu | 
+18/04/08 Fri | London startup meeting
+19/04/08 Sat | 
+20/04/08 Sun | M at hen do, M at rehearsal
+21/04/08 Mon | Bring in drivers license and birth certificate
+22/04/08 Tue | 
+23/04/08 Wed | 
+24/04/08 Thu | 
+25/04/08 Fri | 
+26/04/08 Sat | 
+27/04/08 Sun | 
+28/04/08 Mon | 
+29/04/08 Tue | 
+30/04/08 Wed | 10am go and see I
+
+
+       |     The 80 char diary                                                          |
+80419s |First week done! Nice weekend at home now.                                      |
+80418f |Machines arrive, but can't get Ubuntu working. Hacker meetup, second time round!|
+80417t |More wrestling with MySpace.                                                    |
+80416w |Third day at SK. Wrestling with bastard MySpace OAuth, got it working.          |
+
+
+
+_______30 Day Trials
+
+__No Internet crack until 9pm.
+
+  Sunday 10th February - Sunday 16th March
+  [ .x..... ....... ...xxxx .x..... ..TWTFS S] 
+
+  ______Next Actions
+
+  Get _why's sandbox working.
+  [Wri] Finish text of Plain Text Organizer
+  Email guys in Leicester about a visit.
+
+  (out)
+  get photo taken for passport
+  Pay in cheque
+
+  (home)
+  Learn how to work radiators.
+
+___done
+
+  Try out the example GtkWebkit app.
+  Try out Phusion's Passenger
+
+
+
+</BODY>
+</HTML>
+<P>If you wish to have the entire directory conveniently archived and compressed into one file, please download
+either <A HREF="http://archives.textfiles.com/100.tar.gz"><B>100.tar.gz</B></A> (1101660 bytes) or <A HREF="http://archives.textfiles.com/100.zip"><B>100.zip</B></A> (1135379 bytes) instead of all the files separately. <P>
+
+    
