@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# magicdecane.github.io
+magicdecane.github.io
 > W E L C O M E <
 
 # Purpose of this github
@@ -10,8 +10,7 @@
 
 #UPDATE 21.09.2022 
 - Added colors and tables functions.
-
-# The website was created the 19. September 2022 and is hopefully running as a fully working site before end of October 2022. 
+The website was created the 19. September 2022 and is hopefully running as a fully working site before end of October 2022. 
 =======
 # welcome to github.io
 Update info
