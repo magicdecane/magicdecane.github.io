@@ -1,0 +1,65 @@
+<html>
+<title>and Strategy</title>
+
+<style>
+body	{
+  	margin: 0px 0px 0px 0px;
+  	font-family: Verdana, Arial, Helvetica, Geneva, SunSans-Regular, sans-serif;
+	font-style: normal;
+	font-size: 16px;
+  	background-color: #4682B4;
+}
+
+b   {
+    font-weight : bold;
+}
+h1  {
+    color: #191970;
+}
+A:link  {
+    color: #191970;
+    text-decoration: none;
+}
+A:visited {
+     color: #191970;
+     text-decoration: none;
+}
+#main	{
+    margin:30px 120px 30px 120px;
+    background-color: #FFEBCD;
+	border:10px solid #191970;
+	padding:5px 15px 20px 15px;
+	}
+#right-bar  {
+    margin: 5px;
+    text-align: right;
+    }
+</style>
+
+</head>
+<body>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+</style>
+ <p>To <strong>get memory usage </strong>for the top 10 processes on a local computer using PowerShell, use the below command</p>
+<pre class="EnlighterJSRAW" data-enlighter-language="powershell" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">PS D:\PowerShell&gt; Get-WmiObject WIN32_PROCESS | Sort-Object -Property ws -Descending | Select-Object -first 10 ProcessID,Name,WS
+
+ProcessID Name                      WS
+--------- ----                      --
+     2628 Memory Compression 909996032
+    11984 chrome.exe         470863872
+    15728 firefox.exe        356192256
+    14444 chrome.exe         332091392
+    16680 firefox.exe        315645952
+    11812 chrome.exe         311554048
+    22072 Teams.exe          242507776
+    11256 firefox.exe        221163520
+    27052 powershell_ise.exe 213434368
+    25612 chrome.exe         211025920</pre>
+<p>In the above PowerShell script, </p>   
+    
+</html>
