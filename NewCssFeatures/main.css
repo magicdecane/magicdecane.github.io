@@ -1,0 +1,87 @@
+:root {
+    --eyeshare-green: #9ace37;
+    --eyeshare-light-green: #99ce3763;
+    --cirrus-primary: #9ace37;
+}
+
+.title {
+    color: var(--eyeshare-green);
+}
+
+.main-text {
+    color: gray;
+    /*color: #336699;*/
+}
+
+.hide {
+    display: none;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+}
+
+.grid-item {
+    padding: 4px;
+    box-shadow: #ccc 1px 1px 4px 0;
+}
+
+#overscroll-behavior .main-container {
+    height: 2000px;
+}
+
+#overscroll-behavior .sub-container {
+    height: 200px;
+    width: 800px;
+    overflow: auto;
+    box-shadow: #999 1px 1px 4px 4px;
+    overscroll-behavior-block: contain;
+}
+
+#overscroll-behavior .sub-content {
+    height: 600px;
+    background: linear-gradient(var(--eyeshare-green), #fff, #9cc);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.front-illustration {
+    font-size: 6em;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: -1em;
+    margin-bottom: 0.8em;
+    color: var(--eyeshare-green);
+}
+
+.front-illustration.smaller {
+    font-size: 5em;
+    font-weight: bolder;
+}
+
+.front-illustration::before {
+    content: attr(data-text);
+    position: absolute;
+    transform-origin: bottom;
+    transform: rotateX(180deg);
+    line-height: 1.1em;
+    background: linear-gradient(0deg, var(--eyeshare-green), transparent 70%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    opacity: 0.5;
+}
+
+.front-illustration.smaller::before {
+    line-height: 1.37em;
+}
+
+.reflect-descript {
+    position: absolute;
+    right:50px;
+    background-color: var(--eyeshare-light-green);
+    color: gray;
+}
