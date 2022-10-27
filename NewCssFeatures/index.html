@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,600,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/cirrus-ui@0.5.5/dist/cirrus.min.css" rel="stylesheet">
+        <link href="main.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="header header-fixed unselectable header-animated">
+            <div class="header-brand">
+                <div class="nav-item no-hover">
+                    <h6 class="title">interesting css features</h6>
+                </div>
+            </div>
+            <div class="header-nav" id="header-menu">
+                <div class="nav-right">
+                    <div class="nav-item has-sub toggle-hover" id="dropdown">
+                        <a class="nav-dropdown-link">Menu</a>
+                        <ul class="dropdown-menu dropdown-animated" role="menu">
+                            <li role="menu-item"><a href="#" onclick="router.navigate('/'); return false;">front</a></li>
+                            <li role="menu-item"><a href="#" onclick="router.navigate('overscroll'); return false;">overscroll-behavior</a></li>
+                            <li role="menu-item"><a href="#" onclick="router.navigate('grid'); return false;">display: grid</a></li>
+                            <li role="menu-item"><a href="#" onclick="router.navigate('variables'); return false;">css variables</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <section id="front" class="section">
+            <div class="hero fullscreen">
+                <div class="hero-body u-center">
+                    <div style="position: relative;">
+                        <div class="row level">
+                            <div class="col-6 main-text">
+                                <h3>Exploring interesting useful css features, in pursuit of a greater user experience.</h3>
+                            </div>
+                            <div class="divider divider--v"></div>
+                            <div class="col-6 main-image">
+                                <span data-text="{ }" class="front-illustration smaller">{ }</span>
+                                <span data-text="CSS" class="front-illustration">CSS</span>
+                            </div>
+                        </div>
+                        <code class="reflect-descript">
+                            Text reflection achieved by using:
+                            <ul>
+                                <li>transform rotate</li>
+                                <li>gradient background color</li>
+                                <li>background-clip: text;</li>
+                            </ul>
+
+                        </code>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="overscroll-behavior" class="section hide">
+            <div class="hero fullscreen">
+                <div class="hero-body u-center">
+                    <div style="position: relative;">
+                        <div class="row level">
+                            <div class="col-12 main-container">
+                                <h6>overscroll-behavior</h6>
+                                <p>
+                                    This is a sub container with overflow and <code>overscroll-behavior-block: contain</code> (scroll down to the end and no parent container scrolling).
+                                    <div class="sub-container" style="overscroll-behavior-block: contain;">
+                                        <div class="sub-content" style="background-image: url(images/flower1.jpg)"></div>
+                                    </div>
+                                </p>
+                                <p>
+                                    This is a sub container with overflow and <code>overscroll-behavior-block: auto</code> which is default behavior (scroll down to the end and parent container is scrolling).
+                                    <div class="sub-container" style="overscroll-behavior-block: auto;">
+                                        <div class="sub-content" style="background-image: url(images/flower2.jpg)"></div>
+                                    </div>
+                                </p>
+                                <br><br>
+                                <p>
+                                    <h6>overflow-anchor</h6>
+                                    The feature is enabled by default in supporting browsers. In most cases anchored scrolling is exactly what you want — content jumping is a poor experience for anyone.
+                                    Content jumping occurs for example when images above the scrolled content is loaded.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="variables" class="section hide">
+            <div class="hero fullscreen">
+                <div class="hero-body u-center">
+                    <div style="position: relative;">
+                        <div class="row level">
+                            <div class="col-12 main-container">
+                                <h6>css variables</h6>
+                                <p>
+                                    Example: <br>
+                                    <pre>
+:root {
+    --eyeshare-green: #9ace37;
+}
+
+.title {
+    color: var(--eyeshare-green);
+}
+
+.sub-content {
+    background: linear-gradient(var(--eyeshare-green), #fff, #9cc);
+}
+
+
+
+                                    </pre>
+                                </p>
+                                <p>
+                                    <span class="tag">The <code>:root</code> selector matches the global html document</span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="grid" class="section hide">
+            <div class="hero fullscreen">
+                <div class="hero-body u-center">
+                    <div class="w-90" style="position: relative;">
+                        <div class="row level">
+                            <div class="col-12 main-container">
+                                <h6>display: grid</h6>
+                                <p>
+                                    A list of div elements within a container with <code>display: grid</code> are organized as grid elements.
+
+                                    <span class="tag">
+                                        div.grid-container
+                                    </span>
+
+                                    <div class="grid-container">
+                                        <div class="grid-item">1</div>
+                                        <div class="grid-item">2</div>
+                                        <div class="grid-item">3</div>
+                                        <div class="grid-item">4</div>
+                                        <div class="grid-item">5</div>
+                                        <div class="grid-item">6</div>
+                                        <div class="grid-item">7</div>
+                                        <div class="grid-item">8</div>
+                                    </div>
+                                </p>
+                                <pre>
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+}
+                                </pre>
+                                <p>
+                                    To reduce repetition when defining template sizes use <code>repeat</code>.<br>
+                                    Example with four equal columns:<br>
+                                    <code>grid-template-columns: 200px repeat(3, 1fr);</code>
+
+                                    <div class="grid-container" style="grid-template-columns: 200px repeat(3, 1fr);">
+                                        <div class="grid-item">1</div>
+                                        <div class="grid-item">2</div>
+                                        <div class="grid-item">3</div>
+                                        <div class="grid-item">4</div>
+                                        <div class="grid-item">5</div>
+                                        <div class="grid-item">6</div>
+                                        <div class="grid-item">7</div>
+                                        <div class="grid-item">8</div>
+                                    </div>
+                                </p>
+                                <br>
+                                <p>
+                                    Example with percentage column template sizing and row template sizing:<br>
+                                    <code>grid-template-columns: 20% 40% 40%;</code><br>
+                                    <code>grid-template-rows: 50px 2fr 1fr</code>
+
+                                    <div class="grid-container" style="grid-template-columns: 20% 40% 40%; grid-template-rows: 50px 2fr 1fr">
+                                        <div class="grid-item" style="grid-column-start: 1; grid-column-end: 3; grid-row-start: 1; grid-row-end: 3;">1<br><code>grid-column-start:1;<br>grid-column-end:3;<br>grid-row-start:1;<br>grid-row-end:3;</code></div>
+                                        <div class="grid-item">2</div>
+                                        <div class="grid-item">3</div>
+                                        <div class="grid-item">4</div>
+                                        <div class="grid-item">5</div>
+                                        <div class="grid-item" style="grid-row-start: 3; grid-row-end: 5;">6<br><code>grid-row-start:3<br>grid-row-end:5</code></div>
+                                        <div class="grid-item">7</div>
+                                        <div class="grid-item">8</div>
+                                    </div>
+                                </p>
+                                <p>
+                                    <span class="tag">The fr unit (a “fraction”) can be used when defining grids like any other CSS length such as %, px or em.</span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <script src="router.js"></script>
+        <script>
+            let router = new Router({
+                '' : 'front',
+                'overscroll' : 'overscroll-behavior',
+                'grid' : 'grid',
+                'variables' : 'variables'
+            });
+        </script>
+    </body>
+</html>
